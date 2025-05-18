@@ -11,6 +11,11 @@ This is a simple Python script that uses OpenAI's `whisper-base` model via Huggi
 - 🖥️ Prints the transcription directly to the terminal
 - 🧠 Uses Hugging Face's `transformers` and OpenAI's `whisper-base` model
 
+- ## 🎥 Demo
+
+Watch the working demo here: [YouTube Video](https://www.youtube.com/watch?v=your-demo-link)
+
+
 ---
 
 ## 🛠️ Requirements
